@@ -2,6 +2,7 @@
 Designed to monitor and find any inappropriate or unauthorized activities on personal computers. The system periodically captures screenshots of the user’s desktop activiteis &amp; provide real-time evidence of it !!
 
 
+
 *Problem statement*
 
 1. Nowadays we are seeing generally in colleges Students learn the Concepts and apply those in actual practical implementations. The same procedure is followed by every colleges in this field of Education and Technology.
